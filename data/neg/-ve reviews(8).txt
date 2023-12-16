@@ -1,0 +1,100 @@
+ksqd.org
+THE FILM GANG REVIEW: STAR WARS – THE RISE OF SKYWALKER
+Posted by Paul Kanieski | Dec 24, 2019 | Arts & Culture, The Film Gang | 0 
+
+The Film Gang Review: Star Wars – The Rise of Skywalker
+The Film Gang from KSQD
+The Film Gang from KSQD
+The Film Gang Review: Star Wars - The Rise of Skywalker
+PLAY EPISODE
+REWIND 10 SECONDS1X
+FAST FORWARD 30 SECONDS
+00:00 / 3:14
+SUBSCRIBE SHARE
+Apple Podcasts
+Google Podcasts
+RSS
+Spotify
+RSS FEED
+https://ksqd.org/feed/podcast/filmreview
+
+SHARE
+LINK
+https://ksqd.org/?post_type=post&p=8377
+
+EMBED
+<blockquote class="wp-embedded-content" data-secret="XaLP2s8xCW"><a href="https://ksqd.org/the-film-gang-review-star-wars-the-rise-of-skywalker/">The Film Gang Review: Star Wars – The Rise of Skywalker</a></blockquote><iframe sandbox="allow-scripts" security="restricted" src="https://ksqd.org/the-film-gang-review-star-wars-the-rise-of-skywalker/embed/#?secret=XaLP2s8xCW" width="500" height="350" title="“The Film Gang Review: Star Wars – The Rise of Skywalker” — ksqd.org" data-secret="XaLP2s8xCW" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="wp-embedded-content"></iframe><script type="text/javascript">/*! This file is auto-generated */!function(c,d){"use strict";var e=!1,o=!1;if(d.querySelector)if(c.addEventListener)e=!0;if(c.wp=c.wp||{},c.wp.receiveEmbedMessage);else if(c.wp.receiveEmbedMessage=function(e){var t=e.data;if(!t);else if(!(t.secret||t.message||t.value));else if(/[^a-zA-Z0-9]/.test(t.secret));else{for(var r,s,a,i=d.querySelectorAll('iframe[data-secret="'+t.secret+'"]'),n=d.querySelectorAll('blockquote[data-secret="'+t.secret+'"]'),o=new RegExp("^https?:$","i"),l=0;l<n.length;l++)n[l].style.display="none";for(l=0;l<i.length;l++)if(r=i[l],e.source!==r.contentWindow);else{if(r.removeAttribute("style"),"height"===t.message){if(1e3<(s=parseInt(t.value,10)))s=1e3;else if(~~s<200)s=200;r.height=s}if("link"===t.message)if(s=d.createElement("a"),a=d.createElement("a"),s.href=r.getAttribute("src"),a.href=t.value,!o.test(a.protocol));else if(a.host===s.host)if(d.activeElement===r)c.top.location.href=t.value}}},e)c.addEventListener("message",c.wp.receiveEmbedMessage,!1),d.addEventListener("DOMContentLoaded",t,!1),c.addEventListener("load",t,!1);function t(){if(o);else{o=!0;for(var e,t,r,s=-1!==navigator.appVersion.indexOf("MSIE 10"),a=!!navigator.userAgent.match(/Trident.*rv:11\./),i=d.querySelectorAll("iframe.wp-embedded-content"),n=0;n<i.length;n++){if(!(r=(t=i[n]).getAttribute("data-secret")))r=Math.random().toString(36).substr(2,10),t.src+="#?secret="+r,t.setAttribute("data-secret",r);if(s||a)(e=t.cloneNode(!0)).removeAttribute("security"),t.parentNode.replaceChild(e,t);t.contentWindow.postMessage({message:"ready",secret:r},"*")}}}}(window,document);</script>
+
+Download file | Play in new window | Duration: 3:14 | Recorded on December 24, 2019
+
+Subscribe: Apple Podcasts | Google Podcasts | RSS | Spotify
+
+ 
+
+The following is a spoiler-free review of Star Wars: The Rise of Skywalker.
+
+Star Wars has gone through three evolutionary stages. The first trilogy of films captured the spirit of the Saturday afternoon movie serials produced during the golden age of Hollywood. Imaginative world-building and unambiguous good versus evil storylines provided state of the art escapism for a generation still recovering from Watergate and Vietnam. The second trilogy reflected the creator’s elevated sense of self-importance, the films themselves taking on a pretentious air of somber seriousness, as if George Lucas thought his puerile space operas were on equal footing with Shakespeare. Aesthetically, their antiseptic, computer generated images reflected the technological boom of the ‘90s. With the release of Star Wars: The Rise of Skywalker – the supposed final episode of the final trilogy (yeah, right!) – the franchise has successfully recaptured some of the fun of the original trilogy while pandering to the concerns of millennials, such as diversity, representation and gender equality.
+
+No matter where one falls on the previous installment, the general consensus is Rian Johnson’s script for The Last Jedi was, for the most part, unpredictable, taking delight in deliberately subverting audience expectations. Despite grossing over a billion dollars, Johnson’s upset-the-apple-cart approach did not sit well with most fans. Apparently, the lesson learned from the backlash is that a successful Star Wars sequel must play it safe with a nostalgic approach that adheres to previously established formulae. To that end, writer/director J.J. Abrams, along with three other writers, course-corrected by recycling characters and plot points from the first trilogy, just as they did with The Force Awakens. Then they compensated for their lack of vision with more frequent and extravagant action sequences, Jedi powers approaching those of a god, and a bigger technological threat, which, of course, has the exploitable Achilles’ heel.
+
+Some fans might appreciate returning to familiar territory. However, there’s a fine line between familiarity and predictability, and The Rise of Skywalker crosses that line more than any of the previous chapters. It also undoes or ignores virtually everything that occurred in The Last Jedi. Structurally, it takes a while to settle into a comfortable rhythm; the first part of the film feels rushed, as if the filmmakers are desperately trying to establish where everyone is and what they’re doing as quickly as possible. The result is a “Previously on Star Wars…” ambience, as if we’re watching an extended recap of an episode that never was.
+
+Despite these shortcomings and more, The Rise of Skywalker mostly succeeds as popcorn entertainment thanks to a talented cast, impressive set pieces, a few laughs, and the occasional inspired moment. In fact, those who are emotionally invested in Rey’s character arc might want to bring some Kleenex along. But after an exhausting nine chapters, it’s become pastiche. Sadly, even John William’s classic Star Wars theme is starting to feel tired and clichéd.
+
+For KSQD’s Film Gang, this is Paul Kanieski.
+
+SHARE: 
+ABOUT THE AUTHOR
+Paul Kanieski
+Paul Kanieski
+Ever since he was a teen, Paul has been involved in some form of film criticism, exhibition, or production. For the better part of two decades, he moderated the film discussion group, Let’s Talk About the Movies, which used to meet weekly inside the mezzanine of the historic Del Mar theater in downtown Santa Cruz. In 2023, Paul's insightful KSQD movie reviews earned him Tomatometer-Approved Critic status on Rotten Tomatoes (https://rottentomatoes.com/critic/paul-kanieski).
+
+RELATED POSTS
+Sustainability Now!, Sunday, January 10th: “To Say Nothing of the Dog”*  Understanding connections between culture and nature in environmental art
+Sustainability Now!, Sunday, January 10th: “To Say Nothing of the Dog”* Understanding connections between culture and nature in environmental art
+January 10, 2021
+
+Penny Mudd – Aloha
+Penny Mudd – Aloha
+February 19, 2020
+
+Noah Miska – Backyard Fences
+Noah Miska – Backyard Fences
+May 11, 2023
+
+All work and no play leads to less learning!
+All work and no play leads to less learning!
+June 7, 2021
+
+LEAVE A REPLY
+Your email address will not be published. Required fields are marked *
+
+COMMENT
+
+NAME *
+EMAIL *
+WEBSITE
+
+LATEST POSTS
+Authenticity and the Imposter Syndrome with Susan Schwartz, PhD
+AUTHENTICITY AND THE IMPOSTER SYNDROME WITH SUSAN SCHWARTZ, PHD
+Is there any hope for authenticity? Today we speak with Jungian analyst Susan Schwartz who describes her work on the ...
+Holly Cat- Wild Child
+HOLLY CAT- WILD CHILD
+Told by the writer, this is the story of Holly Cat ...
+What a Week! Nov. 4, 2023
+WHAT A WEEK! NOV. 4, 2023
+You can’t be well informed unless you are informed well! Join hosts Erik Nelson and Tony Russomanno as they unpack ...
+Libraries Are About More than Books
+LIBRARIES ARE ABOUT MORE THAN BOOKS
+On this episode of Talk of the Bay, we hear from Rowan Rammer and Denise Ward from Santa Cruz Public ...
+Alan Ritch - Orphaned Libraries
+ALAN RITCH – ORPHANED LIBRARIES
+Alan Ritch admires a used book store ...
+Anorexia Nervosa Recovery (remix)
+ANOREXIA NERVOSA RECOVERY (REMIX)
+Episode 60: Anorexia Nervosa is a dangerous eating disorder and the deadliest mental illness, second only to opioid overdose. Eating ...
+Loading...
+Designed by Elegant Themes | Powered by WordPress
+
+Log In Contact KSQD Privacy Policy Comment Policy FCC File      
